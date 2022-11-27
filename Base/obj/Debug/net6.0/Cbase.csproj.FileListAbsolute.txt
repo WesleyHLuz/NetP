@@ -1,0 +1,12 @@
+C:\Users\Motion\.Net Projects\NetP\Base\bin\Debug\net6.0\Cbase.deps.json
+C:\Users\Motion\.Net Projects\NetP\Base\bin\Debug\net6.0\Cbase.dll
+C:\Users\Motion\.Net Projects\NetP\Base\bin\Debug\net6.0\Cbase.pdb
+C:\Users\Motion\.Net Projects\NetP\Base\obj\Debug\net6.0\Cbase.csproj.AssemblyReference.cache
+C:\Users\Motion\.Net Projects\NetP\Base\obj\Debug\net6.0\Cbase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Motion\.Net Projects\NetP\Base\obj\Debug\net6.0\Cbase.AssemblyInfoInputs.cache
+C:\Users\Motion\.Net Projects\NetP\Base\obj\Debug\net6.0\Cbase.AssemblyInfo.cs
+C:\Users\Motion\.Net Projects\NetP\Base\obj\Debug\net6.0\Cbase.csproj.CoreCompileInputs.cache
+C:\Users\Motion\.Net Projects\NetP\Base\obj\Debug\net6.0\Cbase.dll
+C:\Users\Motion\.Net Projects\NetP\Base\obj\Debug\net6.0\refint\Cbase.dll
+C:\Users\Motion\.Net Projects\NetP\Base\obj\Debug\net6.0\Cbase.pdb
+C:\Users\Motion\.Net Projects\NetP\Base\obj\Debug\net6.0\ref\Cbase.dll
