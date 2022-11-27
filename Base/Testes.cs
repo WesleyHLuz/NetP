@@ -8,31 +8,31 @@ namespace NetP.Base
     public class Clientes
     {   private List<string> listaDeClientes = new List<string>();
 
-        public Clientes listaClientes()
+        public void listaClientes()
         {
             Console.WriteLine("Clientes Encontrados na Lista:");
             foreach (string item in listaDeClientes)
             {
-                Console.WriteLine($"Nome - {item}");
+                Console.WriteLine(item);
             }
-            return null;
+            
         }
 
-        public Clientes adicionaClientes()
+        public void adicionaClientes()
         {
             Console.WriteLine("Digite o nome a ser adicionado:");
             string nome = Console.ReadLine();
             listaDeClientes.Add(nome);
-            return null;
+            
         }
 
-        public Clientes removeCliente()
+        public void removeCliente()
         {
             Console.WriteLine("Digite o nome a ser adicionado:");
             string nome = Console.ReadLine();
             listaDeClientes.Remove(nome);
 
-            return null;
+            
         }
     }
 
@@ -40,7 +40,7 @@ namespace NetP.Base
     public class Menu: Clientes
     {
         public Clientes operation = new Clientes();
-        public Clientes Tasks()
+        public void Tasks()
         {
             bool exibirMenu = true;
             while (!exibirMenu == false)
@@ -55,11 +55,14 @@ namespace NetP.Base
                 switch (option)
                 {
                     case "1":
-                        return adicionaClientes();
+                         adicionaClientes();
+                         break;
                     case "2":
-                        return listaClientes();
+                         listaClientes();
+                         break;
                     case "3":
-                        return removeCliente();
+                         removeCliente();
+                         break;
                     case "4":
                         break;
 
@@ -69,7 +72,7 @@ namespace NetP.Base
 
                 } 
             }
-                return null;
+                
         }        
     }
 }
