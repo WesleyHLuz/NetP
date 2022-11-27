@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Motion\\.Net Projects\\NetP\\MainP\\NetP.csproj",
+      "projectUniqueName": "C:\\Projetos.Net\\NetP\\MainP\\NetP.csproj",
       "projectName": "NetP",
-      "projectPath": "C:\\Users\\Motion\\.Net Projects\\NetP\\MainP\\NetP.csproj",
+      "projectPath": "C:\\Projetos.Net\\NetP\\MainP\\NetP.csproj",
       "packagesPath": "C:\\Users\\Motion\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Motion\\.Net Projects\\NetP\\MainP\\obj\\",
+      "outputPath": "C:\\Projetos.Net\\NetP\\MainP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Motion\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Motion\\.Net Projects\\NetP\\Base\\Cbase.csproj": {
-              "projectPath": "C:\\Users\\Motion\\.Net Projects\\NetP\\Base\\Cbase.csproj"
+            "C:\\Projetos.Net\\NetP\\Base\\Cbase.csproj": {
+              "projectPath": "C:\\Projetos.Net\\NetP\\Base\\Cbase.csproj"
             }
           }
         }

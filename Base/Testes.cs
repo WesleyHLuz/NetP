@@ -43,7 +43,7 @@ namespace NetP.Base
         public void Tasks()
         {
             bool exibirMenu = true;
-            while (!exibirMenu == false)
+            while (exibirMenu)
             {
                 Console.WriteLine("Digite uma Operação: ");
                 Console.WriteLine("1 - Cadastrar Clientes");
@@ -55,22 +55,26 @@ namespace NetP.Base
                 switch (option)
                 {
                     case "1":
-                         adicionaClientes();
-                         break;
+                        adicionaClientes();
+                        break;
                     case "2":
-                         listaClientes();
-                         break;
+                        removeCliente();
+                        break;
                     case "3":
-                         removeCliente();
-                         break;
+                        listaClientes();
+                        break;
                     case "4":
+                        Console.WriteLine("Encerramento");
+                        System.Environment.Exit(0);
                         break;
 
                     default:
                         Console.WriteLine("Tipo inválido");
                         break;
 
-                } 
+                }
+                Console.WriteLine("Aperte uma tecla para continuar");
+                Console.ReadLine(); 
             }
                 
         }        

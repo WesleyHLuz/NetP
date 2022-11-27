@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Motion\\.Net Projects\\NetP\\Base\\Cbase.csproj",
+      "projectUniqueName": "C:\\Projetos.Net\\NetP\\Base\\Cbase.csproj",
       "projectName": "Cbase",
-      "projectPath": "C:\\Users\\Motion\\.Net Projects\\NetP\\Base\\Cbase.csproj",
+      "projectPath": "C:\\Projetos.Net\\NetP\\Base\\Cbase.csproj",
       "packagesPath": "C:\\Users\\Motion\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Motion\\.Net Projects\\NetP\\Base\\obj\\",
+      "outputPath": "C:\\Projetos.Net\\NetP\\Base\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Motion\\AppData\\Roaming\\NuGet\\NuGet.Config"

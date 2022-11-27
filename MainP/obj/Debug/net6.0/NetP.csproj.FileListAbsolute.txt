@@ -16,3 +16,21 @@ C:\Users\Motion\.Net Projects\NetP\MainP\obj\Debug\net6.0\ref\NetP.dll
 C:\Users\Motion\.Net Projects\NetP\MainP\bin\Debug\net6.0\Cbase.dll
 C:\Users\Motion\.Net Projects\NetP\MainP\bin\Debug\net6.0\Cbase.pdb
 C:\Users\Motion\.Net Projects\NetP\MainP\obj\Debug\net6.0\NetP.csproj.CopyComplete
+C:\Projetos.Net\NetP\MainP\bin\Debug\net6.0\NetP.exe
+C:\Projetos.Net\NetP\MainP\bin\Debug\net6.0\NetP.deps.json
+C:\Projetos.Net\NetP\MainP\bin\Debug\net6.0\NetP.runtimeconfig.json
+C:\Projetos.Net\NetP\MainP\bin\Debug\net6.0\NetP.dll
+C:\Projetos.Net\NetP\MainP\bin\Debug\net6.0\NetP.pdb
+C:\Projetos.Net\NetP\MainP\bin\Debug\net6.0\Cbase.dll
+C:\Projetos.Net\NetP\MainP\bin\Debug\net6.0\Cbase.pdb
+C:\Projetos.Net\NetP\MainP\obj\Debug\net6.0\NetP.csproj.AssemblyReference.cache
+C:\Projetos.Net\NetP\MainP\obj\Debug\net6.0\NetP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos.Net\NetP\MainP\obj\Debug\net6.0\NetP.AssemblyInfoInputs.cache
+C:\Projetos.Net\NetP\MainP\obj\Debug\net6.0\NetP.AssemblyInfo.cs
+C:\Projetos.Net\NetP\MainP\obj\Debug\net6.0\NetP.csproj.CoreCompileInputs.cache
+C:\Projetos.Net\NetP\MainP\obj\Debug\net6.0\NetP.csproj.CopyComplete
+C:\Projetos.Net\NetP\MainP\obj\Debug\net6.0\NetP.dll
+C:\Projetos.Net\NetP\MainP\obj\Debug\net6.0\refint\NetP.dll
+C:\Projetos.Net\NetP\MainP\obj\Debug\net6.0\NetP.pdb
+C:\Projetos.Net\NetP\MainP\obj\Debug\net6.0\NetP.genruntimeconfig.cache
+C:\Projetos.Net\NetP\MainP\obj\Debug\net6.0\ref\NetP.dll

@@ -10,3 +10,15 @@ C:\Users\Motion\.Net Projects\NetP\Base\obj\Debug\net6.0\Cbase.dll
 C:\Users\Motion\.Net Projects\NetP\Base\obj\Debug\net6.0\refint\Cbase.dll
 C:\Users\Motion\.Net Projects\NetP\Base\obj\Debug\net6.0\Cbase.pdb
 C:\Users\Motion\.Net Projects\NetP\Base\obj\Debug\net6.0\ref\Cbase.dll
+C:\Projetos.Net\NetP\Base\bin\Debug\net6.0\Cbase.deps.json
+C:\Projetos.Net\NetP\Base\bin\Debug\net6.0\Cbase.dll
+C:\Projetos.Net\NetP\Base\bin\Debug\net6.0\Cbase.pdb
+C:\Projetos.Net\NetP\Base\obj\Debug\net6.0\Cbase.csproj.AssemblyReference.cache
+C:\Projetos.Net\NetP\Base\obj\Debug\net6.0\Cbase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos.Net\NetP\Base\obj\Debug\net6.0\Cbase.AssemblyInfoInputs.cache
+C:\Projetos.Net\NetP\Base\obj\Debug\net6.0\Cbase.AssemblyInfo.cs
+C:\Projetos.Net\NetP\Base\obj\Debug\net6.0\Cbase.csproj.CoreCompileInputs.cache
+C:\Projetos.Net\NetP\Base\obj\Debug\net6.0\Cbase.dll
+C:\Projetos.Net\NetP\Base\obj\Debug\net6.0\refint\Cbase.dll
+C:\Projetos.Net\NetP\Base\obj\Debug\net6.0\Cbase.pdb
+C:\Projetos.Net\NetP\Base\obj\Debug\net6.0\ref\Cbase.dll
